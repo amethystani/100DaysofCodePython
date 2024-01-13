@@ -1,1 +1,1 @@
-Problem Statements include a simple bmi calculator, life caluclator and a final project that calculates the tip.
+Problem Statements include a simple bmi calculator, life calculator and a final project that calculates the tip.
